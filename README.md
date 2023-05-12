@@ -1,0 +1,2 @@
+# NODE_Mcu_ESP8266-based-Home-automation-college-senior-project-bakbone-softwere-using-blyink-iot-app
+This software i have build for the senior's project (Home automation using NodeMcu esp8266 michrocontroller and Blyink iot app), to collect the data from the dht11 sensor and ultraSonic sensor_ and print the values onto the blyink iot app , to controll the water pump motor , to controll the automaic night on-off garden light , and 2 digital light .
